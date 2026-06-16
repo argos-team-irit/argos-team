@@ -1,0 +1,6 @@
+{
+  "name": "CyberLab Website",
+  "description": "Official university research team web page for cybersecurity and systems architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
